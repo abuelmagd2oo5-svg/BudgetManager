@@ -40,3 +40,22 @@ This app follows MVVM (Model–View–ViewModel):
 ## 🚀 How to Run
 
 1. Clone the repository:
+
+   git clone https://github.com/abuelmagd2oo5-svg/BudgetManager.git
+
+
+2. Open in Android Studio  
+3. Click Run ▶  
+
+---
+
+## 👨‍💻 Author
+
+Ahmed Mohamed  
+Computer Science Student  
+GitHub: https://github.com/abuelmagd2oo5-svg  
+
+---
+
+## ⭐ If you like this project, give it a star!
+
